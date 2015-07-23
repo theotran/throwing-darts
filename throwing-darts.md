@@ -16,3 +16,8 @@ Write a function named `scoreThrows` that accepts an Array of Numbers and return
     scoreThrows( [1, 5, 11] ) => returns 15 
     scoreThrows( [15, 20, 30] ) => returns 0
     scoreThrows( [1, 2, 3, 4] ) => returns 140
+    
+## Additional Requirements
+- Create a Git Repository for this challenge
+- Write tests for your function using the Mocha and Chai Libraries.
+  - Provide test for all cases. Handle unexpected inputs, invalid arguments, etc.
