@@ -13,6 +13,7 @@ and returns a total score using the above specification.
 An empty array should return 0.
 
 ## Examples:
+
     scoreThrows( [1, 5, 11] ) => returns 15 
     scoreThrows( [15, 20, 30] ) => returns 0
     scoreThrows( [1, 2, 3, 4] ) => returns 140
