@@ -7,10 +7,9 @@ You've just recently been hired to calculate scores for a Dart Board game
 10 points - radius less than 5
 
 If all radiuses are less than 5, award 100 BONUS POINTS!
-
-Write a function that accepts an array of radiuses (can be integers and/or floats), 
-and returns a total score using the above specification.
 An empty array should return 0.
+
+Write a function named `scoreThrows` that accepts an Array of Numbers and returns a total score using the above specification.
 
 ## Examples:
 
