@@ -2,9 +2,9 @@
 You've just recently been hired to calculate scores for a Dart Board game
 
 ## Scoring Specs
-0 points - radius above 10
-5 points - radius between 5 and 10 inclusive
-10 points - radius less than 5
+- 0 points: radius above 10
+- 5 points: radius between 5 and 10 inclusive
+- 10 points: radius less than 5
 
 If all radiuses are less than 5, award 100 BONUS POINTS!
 An empty array should return 0.
